@@ -1,0 +1,2 @@
+# SumOfInputIntelliJ
+SumOfInput in IntelliJ
